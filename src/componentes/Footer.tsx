@@ -9,7 +9,10 @@ const Footer: React.FC = () => {
         Projetado
       </a>{" "}
       no Figma e{" "}
-      <a href="#" className="font-bold text-zinc-400 hover:text-indigo-400">
+      <a
+        href="https://github.com/mthsoliveira7/guardanotas"
+        className="font-bold text-zinc-400 hover:text-indigo-400"
+      >
         codado
       </a>{" "}
       no VS Code por{" "}
